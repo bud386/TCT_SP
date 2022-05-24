@@ -2,7 +2,7 @@ package test;
 
 import org.eclipse.jetty.server.*;
 import org.eclipse.jetty.servlet.ServletHandler;
-
+// HTTP 서버 구동(ex. "http://127.0.0.1:8080/")
 public class MyServer {
 
 	public static void main(String[] args) throws Exception {
