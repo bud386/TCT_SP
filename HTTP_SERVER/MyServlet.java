@@ -1,3 +1,4 @@
+// HTTP 요청 처리 (ex.Hello! 응답)
 package test;
 
 import java.io.IOException;
